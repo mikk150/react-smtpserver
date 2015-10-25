@@ -1,0 +1,11 @@
+{
+    "name": "mikk150/react-smtpserver",
+    "requires" :{
+        "react/socket": "^0.4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikk150\\React\\SmtpServer\\": "src"
+        }
+    }
+}
